@@ -3,10 +3,10 @@ import styled from "styled-components";
 
 //icon Images
 export const WeatherInfoIcons = {
-  temp: "./icons/temp.png",
-  humidity: "./icons/humidity.png",
-  wind: "./icons/wind.png",
-  rain: "./icons/rainy.png",
+  temp: "/icons/temp.png",
+  humidity: "/icons/humidity.png",
+  wind: "/icons/wind.png",
+  rain: "/icons/rainy.png",
 };
 
 const WeatherCondition = styled.div`
